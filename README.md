@@ -16,9 +16,9 @@ All experiments are carried out for three scenarios:
 2. Domain adaptation
 3. target data only as training
 
-Model checkpoints: https://drive.google.com/drive/folders/1-0YUodKk9FTDbyCmY9O6U366nsuF5h8z?usp=sharing
-ASL data link: https://drive.google.com/file/d/1ZDOnPoBCNLjLHgRl5ZVnSFaG_-9oRO9b/view?usp=share_link
-Github link: https://github.com/kratiagrawal100/SMAI_Team_37/
+* Model checkpoints: https://drive.google.com/drive/folders/1-0YUodKk9FTDbyCmY9O6U366nsuF5h8z?usp=sharing
+* ASL data link: https://drive.google.com/file/d/1ZDOnPoBCNLjLHgRl5ZVnSFaG_-9oRO9b/view?usp=share_link
+* Github link: https://github.com/kratiagrawal100/SMAI_Team_37/
 
 ### how to run:
 Load notebooks on colab(change runtime to GPU)
